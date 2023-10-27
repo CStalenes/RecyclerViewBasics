@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RecyclerViewBasics</string>
+
+    <string-array name="interns">
+        <item> David 1 </item>
+        <item> Naoufel </item>
+        <item> Stalenes </item>
+        <item> Laureline </item>
+        <item> Nadia </item>
+        <item> Didier </item>
+        <item> David 2 </item>
+        <item> Simon </item>
+        <item> Rima </item>
+        <item> Naziha </item>
+        <item> Jérôme </item>
+        <item> Ali </item>
+        <item> Khadim </item>
+        <item> Samuel </item>
+
+    </string-array>
+    <string-array name="descriptionb">
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item> lLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+    </string-array>
+</resources>
